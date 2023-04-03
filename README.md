@@ -1,7 +1,7 @@
 # Activation
 
-To: vigatro@gmail.com
-Subjcect: License Code Verification
+#### To: vigatro@gmail.com
+#### Subjcect: License Code Verification
 About:
 
  I bought one of your products and I want to activate {{the product's name what you bought}} on my {{roblox / group | CHOOSE ONLY ONE}}.
